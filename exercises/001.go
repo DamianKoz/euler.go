@@ -1,8 +1,8 @@
-package main
+package exercises
 
 import "fmt"
 
-func main() {
+func Solve001() {
 	sum := 0
 
 	for i := 0; i < 1000; i++ {
