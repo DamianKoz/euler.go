@@ -1,3 +1,3 @@
-module github.com/DamianKoz/euler.go
+module damiankoz/euler_go
 
 go 1.18

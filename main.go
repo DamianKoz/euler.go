@@ -1,11 +1,10 @@
 package main
 
 import (
+	"damiankoz/euler_go/exercises"
 	"fmt"
-
-	"github.com/DamianKoz/euler.go/exercises"
 )
 
 func main() {
-	fmt.Println(exercises.Solve002())
+	fmt.Printf("Exercise 2: %d\n", exercises.Solve002())
 }
