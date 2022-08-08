@@ -6,5 +6,5 @@ import (
 )
 
 func main() {
-	fmt.Printf("Exercise 4: %v \n", exercises.Solve004())
+	fmt.Printf("Exercise 8: %v \n", exercises.Solve008())
 }
